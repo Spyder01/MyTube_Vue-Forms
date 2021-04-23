@@ -33,7 +33,7 @@
          Genre: "Horror, mystery and thriller",
          Source: "https://drive.google.com/file/d/1qB1szZ3Oqj4sNvQYTGVj6bXvo6iZ5XVG/preview",
          Thumbnail: "Images\Movies\Geralds_Game",
-         Gif: "https://giphy.com/gifs/YAxubbD7BaVTJtRlO6",
+         Gif: "https://giphy.com/embed/YAxubbD7BaVTJtRlO6",
      },
      movie_6: {
          Name: "Dolores Claiborne",
