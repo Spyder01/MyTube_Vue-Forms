@@ -22,6 +22,7 @@ body {
     margin-right: 12px;
     margin-bottom: 29px;
     margin-top: 10px;
+    border-radius: 50%;
 }
 
 .menuB:hover {
@@ -239,7 +240,7 @@ body {
     .collapse {
         margin-bottom: 150%;
     }
-    .videos{
+    .videos {
         background-color: #191919;
     }
     .video_item {

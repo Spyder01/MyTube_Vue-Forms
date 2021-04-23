@@ -33,7 +33,7 @@
          Genre: "Horror, mystery and thriller",
          Source: "https://drive.google.com/file/d/1qB1szZ3Oqj4sNvQYTGVj6bXvo6iZ5XVG/preview",
          Thumbnail: "Images\Movies\Geralds_Game",
-         Gif: "https://giphy.com/embed/6YV2Nhv9HpyTu",
+         Gif: "https://giphy.com/gifs/YAxubbD7BaVTJtRlO6",
      },
      movie_6: {
          Name: "Dolores Claiborne",
@@ -41,6 +41,13 @@
          Source: "https://drive.google.com/file/d/1xIZsjYhAKpAbdIyCs6yZXVBNWQzhdxe_/preview",
          Thumbnail: "Images\Movies\Dolores",
          Gif: "https://giphy.com/embed/Z21HJj2kz9uBG",
+     },
+     movie_7: {
+         Name: "Top 5 Hollywood Training Montages",
+         Genre: "Youtube Video(Selcouth)",
+         Source: "https://www.youtube.com/embed/hJmLwFgzG-M",
+         Thumbnail: "Images\Movies\training.png",
+         Gif: "https://giphy.com/embed/I0sfI6qpPpSTe",
      },
 
  }
