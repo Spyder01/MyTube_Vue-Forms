@@ -50,6 +50,7 @@
          Gif: "https://giphy.com/embed/I0sfI6qpPpSTe",
      },
 
+
  }
 
 
@@ -79,11 +80,9 @@
 
          }
      }
+ }
 
 
  })
 
  app.mount("#app")
-
-
- window.onload = app[methods].getMovie('movie_2')
