@@ -49,7 +49,13 @@
          Thumbnail: "Images\Movies\training.png",
          Gif: "https://giphy.com/embed/I0sfI6qpPpSTe",
      },
-
+    movie_8: {
+         Name: "Arrival",
+         Genre: "Science_Fiction",
+         Source: "http://bilbohiria.com/docs2/filmak/Arrival.2016.1080p.BRRip.x264.AAC-ETRG/Arrival.2016.1080p.BRRip.x264.AAC-ETRG.mp4",
+         Thumbnail: "Images\Movies\Arrival.png",
+         Gif: "https://giphy.com/embed/I0sfI6qpPpSTe",
+     },
  }
 
 
